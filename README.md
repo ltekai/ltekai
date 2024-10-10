@@ -1,5 +1,4 @@
-<img src="Assets/nextjs-icon.png" width="200">
-<img src="Assets/react-native.png" width="200">
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,django,react,docker,git,go,mongodb,postgres,py&perline=5)](https://skillicons.dev)
 
 
 ## Hi there 👋 My name is Tekai!
@@ -22,4 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Some icons to use:
+https://github.com/tandpfun/skill-icons
 -->
