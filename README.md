@@ -1,4 +1,13 @@
-## Hi there 👋
+<img src="Assets/nextjs-icon.png" width="200">
+<img src="Assets/react-native.png" width="200">
+
+
+## Hi there 👋 My name is Tekai!
+
+### Software Engineer, Bookworm and Avid Investor 
+I am a creator at heart, a graduate at National University of Singapore and University of Queensland.
+
+I have the zest to learn new technologies and contribute by sharing them with my peers. Recently enjoying problem solving.
 
 <!--
 **ltekai/ltekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
