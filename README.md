@@ -3,7 +3,7 @@
 
 ## Hi there 👋 My name is Tekai!
 
-### Software Engineer, Bookworm and Avid Investor 
+### Software Engineer and Bookworm 
 I am a creator at heart, a graduate at National University of Singapore and University of Queensland.
 
 I have the zest to learn new technologies and contribute by sharing them with my peers. Recently enjoying problem solving.
